@@ -1,0 +1,91 @@
+# Cider BAC Calculator Privacy Policy
+
+**Last Updated: April 4, 2025**
+
+## Introduction
+
+Cider BAC Calculator ("we," "our," or "app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+Please read this Privacy Policy carefully. By using the app, you consent to the practices described in this policy.
+
+## Information We Collect
+
+### Personal Information
+
+The Cider BAC Calculator collects the following personal information:
+
+- **User Profile Information**: Gender, weight, and unit system preference (imperial or metric). This information is necessary to accurately calculate Blood Alcohol Content (BAC).
+- **Drink Consumption Data**: Information about alcoholic beverages consumed, including alcohol percentage, volume, and time of consumption.
+- **Daily Summary Data**: Aggregated information about your drinking patterns, including standard drinks consumed and peak BAC by day.
+
+### Non-Personal Information
+
+We also collect non-personal information such as:
+
+- **Device Information**: Operating system version, device model, and other device-specific information required for app functionality.
+- **Usage Data**: How you interact with the app, features you use, and app performance metrics.
+
+## How We Use Your Information
+
+We use the information we collect to:
+
+- Calculate and display your estimated Blood Alcohol Content (BAC)
+- Create and display historical drinking patterns and statistics
+- Improve the app's functionality and user experience
+- Troubleshoot technical issues
+
+## Local Storage of Data
+
+All personal data collected by the Cider BAC Calculator is stored locally on your device using Apple's UserDefaults system. We do not transmit or store your personal information on external servers.
+
+## Third-Party Services
+
+### Advertising
+
+Our app uses Google AdMob to display advertisements. AdMob may collect and process certain data as described in Google's Privacy Policy. This may include:
+
+- IP address
+- Device identifiers
+- Location data (if you've granted location permissions to our app)
+- Usage data related to advertisements
+
+For more information about how Google uses information from sites or apps that use their services, please visit: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
+
+### App Tracking Transparency
+
+In accordance with Apple's App Tracking Transparency framework, our app will request permission before tracking your activity across other companies' apps and websites for advertising purposes. You can manage these permissions in your device settings.
+
+## Data Retention
+
+Your data is stored locally on your device until you delete the app or clear the app's data through your device settings. We automatically process and archive drink data older than 7 days into daily summaries to maintain app performance.
+
+## Children's Privacy
+
+Our app is not directed to children under the age of 18. We do not knowingly collect personal information from children under 18. If we discover that a child under 18 has provided us with personal information, we will promptly delete such information.
+
+## Your Choices
+
+You can choose to:
+
+- Modify your personal information (gender, weight, etc.) at any time through the app's profile settings
+- Delete individual drink entries or entire days of drinking history
+- Opt out of personalized advertising by adjusting your device settings
+- Clear all app data by uninstalling the app
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+
+## Disclaimer
+
+Cider BAC Calculator provides ESTIMATES ONLY. BAC calculations are not guaranteed to be accurate and can be affected by numerous factors including metabolism, food intake, medications, and individual differences not accounted for by the app. DO NOT use this app to determine if you are sober enough to drive or operate machinery. The safest choice is to avoid driving entirely after consuming ANY alcohol.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+[Your Contact Email]
+
+---
+
+By using the Cider BAC Calculator app, you acknowledge that you have read and understand this Privacy Policy.
